@@ -1,8 +1,9 @@
-streamlit
+streamlit==1.54.0
 streamlit-webrtc==0.47.7
+aiortc==1.6.0
 mediapipe==0.10.11
-opencv-python-headless
-pandas
+opencv-python-headless==4.10.0.84
+pandas==2.2.3
 groq
 gtts
 python-dotenv
