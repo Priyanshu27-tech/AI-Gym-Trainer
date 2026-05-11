@@ -8,3 +8,4 @@ pandas
 groq
 gtts
 python-dotenv
+tornado
