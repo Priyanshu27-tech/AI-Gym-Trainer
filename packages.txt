@@ -1,3 +1,4 @@
+libgles2
 libgl1
 libglib2.0-0t64
 libsm6
